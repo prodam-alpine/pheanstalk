@@ -1,3 +1,5 @@
+**⚠️ Soon obsolete.** The changes made in this fork will be part of the mainline repository, [pheanstalk/pheanstalk](https://github.com/pheanstalk/pheanstalk), in [version 5](https://github.com/pheanstalk/pheanstalk/issues/223). 
+
 Pheanstalk
 ==========
 
