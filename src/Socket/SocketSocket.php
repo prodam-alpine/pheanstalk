@@ -12,7 +12,7 @@ use Pheanstalk\Exception\SocketException;
  */
 class SocketSocket implements SocketInterface
 {
-    /** @var resource */
+    /** @var \Socket|false */
     private $socket;
 
     public function __construct(
